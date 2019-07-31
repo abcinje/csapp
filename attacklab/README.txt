@@ -26,7 +26,7 @@ can compile (use flag -Og) and disassemble it to look for gadgets.
 Utility program to generate byte sequences.  See documentation in lab
 handout.
 
-These targets are for self-study students. You'll need to be run them
+These targets are for self-study students.  You'll need to be run them
 using the "-q" option so that they don't try to contact a non-existent
 grading server.
 
